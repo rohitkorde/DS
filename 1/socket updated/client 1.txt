@@ -1,0 +1,13 @@
+run:
+Connection established
+********String Operations********
+1]Length of string 
+2]lowercase to uppercase
+3]factorial of a number 
+4]exit
+Enter Choice
+1
+Enter String to measure length
+skncoe
+length return from server is =6
+is length incorrect?

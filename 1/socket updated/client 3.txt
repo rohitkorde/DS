@@ -1,0 +1,13 @@
+run:
+Connection established
+********String Operations********
+1]Length of string 
+2]lowercase to uppercase
+3]factorial of a number 
+4]exit
+Enter Choice
+2
+Enter lowercase String
+skncoe
+uppercase is =SKNCOE
+is uppercase correct?

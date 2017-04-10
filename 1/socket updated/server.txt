@@ -1,0 +1,25 @@
+Server Running
+
+Server Connected to client #0
+choice received= 3
+Number received= 5
+Factorial is= 120
+whether factorial of number correct/incorrect?
+correct
+
+
+Server Connected to client #1
+choice received= 2
+String received= skncoe
+uppercase string is= SKNCOE
+whether uppercase of string is  correct/incorrect?
+correct
+
+
+Server Connected to client #2
+choice received= 1
+String received= skncoe
+length of String is 6
+ whether length of string is correct/incorrect?
+incorrect
+

@@ -1,0 +1,13 @@
+run:
+Connection established
+********String Operations********
+1]Length of string 
+2]lowercase to uppercase
+3]factorial of a number 
+4]exit
+Enter Choice
+3
+Enter Number to find factorial
+5
+factorial is =120
+is factorial correct?
